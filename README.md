@@ -32,9 +32,10 @@ Onde $\omega_c = 2 \pi f_c$.
 
 ### Valores Calculados (Ideal vs. Comercial)
 
-| Componente | Valor Ideal Calculado | Valor Comercial Escolhido | Erro (%) | 
-| **Indutor (L)** | 0.250088 mH | 0.27 mH | 7.96 % | 
-| **Capacitor (C)** | 7.815246 $\mu$F | 8.20 $\mu$F | 4.92 % | 
+| Componente | Valor Ideal Calculado | Valor Comercial Escolhido | Erro (%) |
+| :--- | :--- | :--- | :--- |
+| **Indutor (L)** | 0.250088 mH | 0.27 mH | 7.96 % |
+| **Capacitor (C)** | 7.815246 $\mu$F | 8.20 $\mu$F | 4.92 % |
 
 ### Gráfico de Bode
 <img width="1763" height="532" alt="image" src="https://github.com/user-attachments/assets/fd23be5a-82f4-4e33-a499-6e3f08b57fa3" />
